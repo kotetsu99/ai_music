@@ -11,7 +11,6 @@ import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver import ActionChains
 
 # URL定数定義
 PLAYLIST_URL = 'https://music.youtube.com/watch?v=0cGBTbjvwuo&list=RDAMVM0cGBTbjvwuo'
